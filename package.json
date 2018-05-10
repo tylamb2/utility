@@ -1,0 +1,19 @@
+{
+  "name": "r2_utility",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "r2_utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylamb2/utility.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylamb2/utility/issues"
+  },
+  "homepage": "https://github.com/tylamb2/utility#readme"
+}
